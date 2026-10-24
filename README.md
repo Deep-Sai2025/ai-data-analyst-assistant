@@ -2,7 +2,7 @@
 
 **Upload any CSV. Ask a question in plain English. The AI writes the pandas code, runs it in a safe sandbox, and answers — with charts and explanations.**
 
-> 🔗 **Live demo:** *(link added after Streamlit Cloud deploy)*
+> 🔗 **Live demo:** https://ai-data-analyst-assistant-dkwb6gas7yfupvwodmxjwr.streamlit.app
 
 Built on the UCI Bank Marketing dataset (45,211 records of a bank's term-deposit marketing campaign), but it works with any CSV you upload.
 
